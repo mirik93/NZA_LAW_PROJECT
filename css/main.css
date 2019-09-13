@@ -147,3 +147,48 @@ height:200px;
 
 
 /**Alex Code**/
+/**how we are page-mirik**/
+
+.text1{
+  font-size: 15px;
+  width: 600px;
+  position: relative;
+  left: 350px;
+  top: -350px;
+}
+
+.Placeholder1>img{
+  width:300px;
+    height:200px;
+    position: relative;
+    top: -220px;
+    right: 250px;
+}
+.Placeholder2>img{
+  width:300px;
+    height:200px;
+    position: relative;
+    right:-350px;
+    top: -220px;
+}
+.Placeholder3>img{
+  width:300px;
+    height:200px;
+    position: relative;
+    left:350px;
+    bottom:220px;
+}
+.Placeholder4>img{
+  width:300px;
+    height:200px;
+    position: relative;
+    bottom: 420px;
+    left:50px;
+}
+.Placeholder5>img{
+  width: 300px;
+  height: 200px;
+    position: relative;
+    bottom: 220px;
+    left:50px;
+}
